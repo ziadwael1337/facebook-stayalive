@@ -1,0 +1,108 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 1.1rem !important;
+}
+
+.inpuut {
+    display: inline-block;
+    text-align: center;
+    margin-top: 12%;
+    width: 400px;
+    height: 330px;
+    box-shadow: 0px 1px 7px -3px black;
+    margin-right: 58%;
+    border-radius: 12px;
+}
+
+input {
+    border: none;
+    width: 85%;
+    height: 8.2%;
+    padding: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    box-shadow: 0px 0px 3px -1px black;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.login {
+    margin-top: 20px;
+    background: #1877f2;
+    color: white;
+    padding: 15px;
+    width: 90%;
+    border: none;
+    border-radius: 5px;
+}
+
+.forget {
+    display: inline-block;
+    color: #18a1f6;
+    text-decoration: none;
+    margin-top: 15px;
+}
+
+.zyhr {
+    margin-top: 30px;
+    border-bottom: 1px solid #d5cdcd;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.newacc {
+    background-color: #42b72a;
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+.page-famous {
+    display: inline-block;
+    margin-right: 60%;
+    margin-top: 25px;
+}
+
+.newpage {
+    text-decoration: none;
+    color: black;
+}
+
+.new-page-span {
+    font-size: medium !important;
+}
+
+.logo-facebook {
+    margin-top: -26%;
+    margin-right: 100px;
+}
+
+
+.logo {
+    width: 300px;
+}
+
+.paragraph-for-logo {
+    font-family: Helvetica, Arial, sans-serif !important;
+    font-size: 29px !important;
+    font-weight: normal !important;
+    line-height: 32px !important;
+    width: 500px !important;
+}
+
+.copyright {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    bottom: 0;
+    background-color: black;
+    color: white;
+}
+
+.copyright h1 a {
+    text-decoration: none;
+    color: orangered;
+}
